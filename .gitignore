@@ -1,0 +1,11 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Compiled output
+/bin/
+/target/
+
+# Dependency directories
+/lib/
